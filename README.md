@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Arpita Sharma
+- 👀 I’m interested in - Analytics, Data Analysis, Data Cleaning, Visualization
+- 🌱 I’m currently learning - SQL, Tableau, Advance Excel, Python
+- 📫 How to reach me - b73arpitasharma@gmail.com
